@@ -1,0 +1,16 @@
+{
+  "title": "Fiddler on the Roof",
+  "year": 1971,
+  "isAvailable": true,
+  "genres": ["Musical", "Drama", "Historical"],
+  "cast": [
+    {
+      "name": "Topol",
+      "role": "Lead (Tevye)"
+    },
+    {
+      "name": "Norma Crane",
+      "role": "Supporting (Golde)"
+    }
+  ]
+}
